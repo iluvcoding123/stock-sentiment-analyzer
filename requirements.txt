@@ -1,10 +1,5 @@
 pandas
 numpy
 matplotlib
-seaborn
-scikit-learn
 nltk
-transformers
-torch
-streamlit
-EOF
+seaborn

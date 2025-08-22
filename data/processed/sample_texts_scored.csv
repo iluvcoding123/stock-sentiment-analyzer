@@ -1,0 +1,6 @@
+timestamp,ticker,source,text,text_clean,neg,neu,pos,compound
+2025-08-22 09:15:00+00:00,AAPL,tweet,Apple’s new iPhone looks insane — bullish into event?,apple s new iphone looks insane bullish into event,0.278,0.722,0.0,-0.4019
+2025-08-22 09:18:00+00:00,TSLA,news,Tesla shares rise after production update beats expectations,tesla shares rise after production update beats expectations,0.0,0.761,0.239,0.296
+2025-08-22 09:21:00+00:00,NVDA,reddit,"NVDA earnings were fire, but valuation still scares me ngl",nvda earnings were fire but valuation still scares me ngl,0.375,0.625,0.0,-0.5859
+2025-08-22 09:30:00+00:00,AAPL,news,Analyst cuts estimates; warns of supply chain risks near-term,analyst cuts estimates warns of supply chain risks near term,0.449,0.551,0.0,-0.5719
+2025-08-22 09:45:00+00:00,TSLA,tweet,bro this dip was a gift,bro this dip was a gift,0.0,0.58,0.42,0.4404
