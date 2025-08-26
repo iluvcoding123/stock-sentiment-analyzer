@@ -1,0 +1,301 @@
+timestamp,ticker,source,text,label_bucket
+2025-08-16T00:29:21,TSLA,news,IMO: TSLA massive beat 😤 #AI DYOR,positive
+2025-08-16T01:13:21,AAPL,news,$AAPL @jimcramer Breaking: AAPL waiting for earnings 📌 DYOR,neutral
+2025-08-16T02:06:21,SOFI,news,$SOFI @barronsonline FYI: SOFI sector rotation 📰 #earnings,neutral
+2025-08-16T02:17:21,AAPL,reddit,$AAPL Update: AAPL profit warning ❌,negative
+2025-08-16T03:28:21,TSLA,twitter,$TSLA Breaking: TSLA strong demand ✅ #stocks,positive
+2025-08-16T05:39:21,SOFI,reddit,Update: SOFI strong demand 😤 DYOR,positive
+2025-08-16T06:04:21,TSLA,twitter,$TSLA Breaking: TSLA solid earnings 😤 #AI,positive
+2025-08-16T07:09:21,TSLA,twitter,@elonmusk TSLA rumors circulating 📰,neutral
+2025-08-16T07:34:21,SMR,twitter,$SMR @jimcramer Update: SMR margin pressure ❌ #earnings DYOR,negative
+2025-08-16T08:28:21,MP,reddit,$MP Heads up: MP CEO interview airs 📌 #markets DYOR,neutral
+2025-08-16T08:54:21,SMR,news,$SMR FYI: SMR rips higher 🚀,positive
+2025-08-16T09:00:21,NVDA,reddit,$NVDA Update: NVDA files 10-Q 🔍,neutral
+2025-08-16T09:05:21,MP,news,@elonmusk Breaking: MP shares unchanged 📰 https://news.site/sfqgmxvc,neutral
+2025-08-16T12:11:21,NVDA,twitter,$NVDA Heads up: NVDA beats expectations 💎 #AI,positive
+2025-08-16T12:50:21,AAPL,twitter,Heads up: AAPL rips higher 😤 #fintwit DYOR,positive
+2025-08-16T13:11:21,NVDA,twitter,$NVDA @elonmusk Heads up: NVDA costs under control 💎,positive
+2025-08-16T15:36:21,SMR,news,FYI: SMR massive beat 🔥 https://blog.finance/ukrtgesjbm DYOR,positive
+2025-08-16T16:09:21,SOFI,reddit,$SOFI IMO: SOFI supply issues 💥 #markets https://news.site/qkznyczezg DYOR,negative
+2025-08-16T16:24:21,SOFI,reddit,$SOFI Breaking: SOFI lawsuit risk 😬 #options http://example.com/aynstrjbrii,negative
+2025-08-16T17:40:21,MP,reddit,$MP @jimcramer Heads up: MP analyst upgrade 💎 #fintwit,positive
+2025-08-16T17:49:21,MP,news,$MP @bespokeinvest Breaking: MP dilution fears 💥 #fintwit,negative
+2025-08-16T18:24:21,MP,reddit,$MP @barronsonline MP new ATH ✅ #stocks https://blog.finance/cygiudbzpt,positive
+2025-08-16T18:44:21,MP,news,$MP @cnbc FYI: MP crushing it 😤 http://example.com/fusmoxddmno,positive
+2025-08-16T19:13:21,SOFI,news,@bespokeinvest IMO: SOFI AI tailwinds 😤,positive
+2025-08-16T19:19:21,NVDA,twitter,$NVDA IMO: NVDA execution concerns 🤦 http://example.com/gixcdjdfk,negative
+2025-08-16T19:40:21,SOFI,reddit,$SOFI @unusual_whales Update: SOFI unveils new product 🤔 https://blog.finance/myhkxvntuxm,neutral
+2025-08-16T19:43:21,SOFI,twitter,$SOFI SOFI strong demand 💎 #AI,positive
+2025-08-16T19:49:21,SMR,twitter,$SMR Breaking: SMR dilution fears 📉 https://news.site/bjfitjt,negative
+2025-08-16T21:50:21,NVDA,twitter,$NVDA @wsj FYI: NVDA weak outlook 🩻,negative
+2025-08-16T21:51:21,AAPL,twitter,$AAPL @barronsonline AAPL crushing it 🚀 #fintwit,positive
+2025-08-16T22:07:21,NVDA,twitter,FYI: NVDA margin pressure ❌ http://example.com/oxjyfpvgs,negative
+2025-08-16T23:43:21,MP,news,$MP Breaking: MP record revenue 🚀 #AI DYOR,positive
+2025-08-17T00:04:21,MP,reddit,$MP @wsj MP beats expectations ✅ DYOR,positive
+2025-08-17T01:09:21,TSLA,news,$TSLA IMO: TSLA rumors circulating 📌 #markets,neutral
+2025-08-17T01:39:21,TSLA,twitter,$TSLA @bespokeinvest TSLA shares unchanged 🔍 #stocks,neutral
+2025-08-17T01:55:21,SOFI,twitter,$SOFI SOFI sector rotation 📌,neutral
+2025-08-17T02:44:21,TSLA,twitter,$TSLA FYI: TSLA crushing it 😤,positive
+2025-08-17T03:54:21,AAPL,twitter,$AAPL @jimcramer Update: AAPL guidance raised 🔥 #options,positive
+2025-08-17T04:14:21,MP,news,$MP @wsj FYI: MP macro headwinds 😬 #fintwit https://blog.finance/ethptpz,negative
+2025-08-17T04:19:21,NVDA,twitter,$NVDA FYI: NVDA macro headwinds 💥 #stocks,negative
+2025-08-17T05:23:21,TSLA,news,$TSLA @wsj IMO: TSLA AI tailwinds ✅ #earnings http://example.com/ymvkbqbdo,positive
+2025-08-17T06:16:21,TSLA,twitter,$TSLA FYI: TSLA missed revenue 📉,negative
+2025-08-17T06:44:21,NVDA,news,$NVDA @jimcramer Breaking: NVDA strong demand 💎 http://example.com/reebalphg,positive
+2025-08-17T06:47:21,MP,reddit,MP conference next week 🤔 #markets,neutral
+2025-08-17T06:52:21,SMR,twitter,Breaking: SMR expansion continues 🔥 #markets https://blog.finance/lmhkholpx,positive
+2025-08-17T07:36:21,SMR,reddit,$SMR Update: SMR misses badly 🩻 #stocks,negative
+2025-08-17T09:22:21,NVDA,news,$NVDA Heads up: NVDA beats expectations 🔥 #options,positive
+2025-08-17T10:25:21,AAPL,reddit,$AAPL FYI: AAPL macro headwinds 📉 #investing,negative
+2025-08-17T10:40:21,SOFI,news,$SOFI @elonmusk IMO: SOFI misses badly 📉 DYOR,negative
+2025-08-17T11:23:21,SMR,reddit,$SMR @unusual_whales IMO: SMR strong demand 🚀 DYOR,positive
+2025-08-17T14:06:21,SMR,twitter,@elonmusk SMR shares unchanged 🔍 http://example.com/ooczxldvm,neutral
+2025-08-17T14:26:21,SMR,news,$SMR FYI: SMR shares unchanged 🔍 #fintwit,neutral
+2025-08-17T14:27:21,SMR,news,$SMR IMO: SMR files 10-Q 📰 #markets,neutral
+2025-08-17T15:20:21,NVDA,news,$NVDA FYI: NVDA shares unchanged 🧾 #AI https://blog.finance/liesogubtsv,neutral
+2025-08-17T18:04:21,SMR,reddit,$SMR FYI: SMR unveils new product 🤔 #markets,neutral
+2025-08-17T18:04:21,MP,news,@bespokeinvest Heads up: MP selloff incoming 📉,negative
+2025-08-17T18:47:21,MP,reddit,Update: MP expansion continues 🚀 #earnings,positive
+2025-08-17T19:31:21,SOFI,news,$SOFI Heads up: SOFI beats expectations 📈,positive
+2025-08-17T19:55:21,AAPL,news,$AAPL Breaking: AAPL partnership win 🚀 #markets https://news.site/lgkreepjrm,positive
+2025-08-17T20:01:21,TSLA,reddit,$TSLA IMO: TSLA expansion continues 💎 DYOR,positive
+2025-08-17T20:26:21,SOFI,reddit,$SOFI @wsj IMO: SOFI solid earnings 💎 https://news.site/cjjhsavkawuz,positive
+2025-08-17T20:44:21,MP,reddit,$MP @unusual_whales Heads up: MP AI tailwinds 💎 #fintwit,positive
+2025-08-17T20:57:21,MP,news,$MP MP no material update 🤔 #markets,neutral
+2025-08-17T21:25:21,MP,twitter,$MP @cnbc FYI: MP rips higher 💎,positive
+2025-08-17T23:03:21,SMR,reddit,$SMR IMO: SMR AI tailwinds 🔥 https://news.site/mbtfrr,positive
+2025-08-18T01:07:21,SMR,reddit,$SMR IMO: SMR guidance cut 📉 #investing,negative
+2025-08-18T04:50:21,MP,reddit,$MP @bespokeinvest Heads up: MP rips higher 😤 http://example.com/xhkdyhmcxdlr,positive
+2025-08-18T06:37:21,SMR,reddit,IMO: SMR trading flat 🤔,neutral
+2025-08-18T06:38:21,MP,reddit,$MP @wsj Breaking: MP crushing it ✅,positive
+2025-08-18T07:15:21,MP,reddit,$MP IMO: MP unveils new product 🔍 #fintwit,neutral
+2025-08-18T09:32:21,AAPL,twitter,FYI: AAPL sector rotation 🤔 #markets,neutral
+2025-08-18T09:56:21,TSLA,reddit,$TSLA Heads up: TSLA record revenue 🔥 http://example.com/ucwdjupag DYOR,positive
+2025-08-18T10:10:21,SOFI,news,$SOFI @wsj Update: SOFI rips higher 😤 #AI,positive
+2025-08-18T10:23:21,AAPL,news,$AAPL Breaking: AAPL no material update 🧾 #AI,neutral
+2025-08-18T11:07:21,AAPL,reddit,$AAPL @bespokeinvest FYI: AAPL range-bound action 🔍 #earnings,neutral
+2025-08-18T12:02:21,MP,reddit,$MP @bespokeinvest IMO: MP waiting for earnings 🧾 #investing https://blog.finance/lxkvksii,neutral
+2025-08-18T12:13:21,TSLA,news,$TSLA @barronsonline Breaking: TSLA market indecisive 📰 DYOR,neutral
+2025-08-18T12:18:21,AAPL,news,$AAPL @wsj AAPL analyst upgrade 📈,positive
+2025-08-18T12:28:21,AAPL,reddit,$AAPL FYI: AAPL solid earnings 💎 #AI http://example.com/vjtouvzvpq DYOR,positive
+2025-08-18T12:31:21,MP,news,$MP Heads up: MP guidance raised 🚀 DYOR,positive
+2025-08-18T13:17:21,TSLA,news,$TSLA Breaking: TSLA no material update 🔍 #options https://news.site/ijsuocbeqrhr,neutral
+2025-08-18T13:41:21,SOFI,reddit,$SOFI @barronsonline Breaking: SOFI supply issues 💥 #investing,negative
+2025-08-18T14:33:21,NVDA,twitter,@cnbc Heads up: NVDA crushing it ✅,positive
+2025-08-18T14:50:21,NVDA,reddit,$NVDA @cnbc IMO: NVDA rips higher 🚀 #fintwit,positive
+2025-08-18T14:52:21,NVDA,twitter,$NVDA @elonmusk Heads up: NVDA strong demand 😤 #options,positive
+2025-08-18T15:10:21,NVDA,twitter,@bespokeinvest IMO: NVDA strong demand 🚀 DYOR,positive
+2025-08-18T15:51:21,AAPL,twitter,$AAPL @unusual_whales Heads up: AAPL waiting for earnings 🧾 http://example.com/ncnxjs,neutral
+2025-08-18T15:54:21,TSLA,twitter,$TSLA @cnbc TSLA guidance cut 💥 #markets,negative
+2025-08-18T17:19:21,SMR,news,$SMR Heads up: SMR market indecisive 🧾 DYOR,neutral
+2025-08-18T17:43:21,AAPL,reddit,$AAPL @elonmusk Heads up: AAPL weak outlook 🤦 #earnings DYOR,negative
+2025-08-18T18:06:21,NVDA,reddit,Update: NVDA rips higher 😤 #AI,positive
+2025-08-18T19:10:21,MP,twitter,$MP @barronsonline Update: MP market indecisive 🧾 #stocks,neutral
+2025-08-18T19:12:21,NVDA,news,$NVDA @jimcramer IMO: NVDA conference next week 🧾,neutral
+2025-08-18T19:40:21,NVDA,reddit,$NVDA NVDA dilution fears 😬 #markets,negative
+2025-08-18T20:01:21,NVDA,twitter,$NVDA NVDA rumors circulating 🔍 DYOR,neutral
+2025-08-18T20:59:21,AAPL,news,@jimcramer AAPL demand slowing 💥 https://blog.finance/ijuvrv,negative
+2025-08-19T00:04:21,MP,news,$MP Breaking: MP guidance cut 🤦 #fintwit,negative
+2025-08-19T00:15:21,SOFI,twitter,$SOFI @unusual_whales Breaking: SOFI under investigation 💥 #options,negative
+2025-08-19T00:33:21,AAPL,news,$AAPL @cnbc FYI: AAPL bullish momentum 📈,positive
+2025-08-19T00:39:21,TSLA,news,$TSLA FYI: TSLA new ATH 🚀,positive
+2025-08-19T00:42:21,SOFI,twitter,$SOFI IMO: SOFI analyst upgrade 🔥 https://blog.finance/mhjnzvudgqwo DYOR,positive
+2025-08-19T01:11:21,SMR,twitter,$SMR @bespokeinvest FYI: SMR supply issues 🩻 http://example.com/xykkjkcficsi DYOR,negative
+2025-08-19T01:14:21,AAPL,reddit,$AAPL @jimcramer IMO: AAPL costs under control ✅ #stocks DYOR,positive
+2025-08-19T01:26:21,TSLA,twitter,$TSLA @unusual_whales Heads up: TSLA missed revenue 🤦 #stocks https://news.site/bvmnqoshajoe,negative
+2025-08-19T02:02:21,SMR,reddit,$SMR Update: SMR conference next week 🧾 #AI DYOR,neutral
+2025-08-19T03:26:21,SOFI,reddit,$SOFI Heads up: SOFI guidance raised 😤 #investing,positive
+2025-08-19T04:12:21,MP,reddit,$MP @jimcramer FYI: MP selloff incoming 🩻,negative
+2025-08-19T04:14:21,SOFI,news,$SOFI IMO: SOFI files 10-Q 🤔 #fintwit http://example.com/iikvm DYOR,neutral
+2025-08-19T04:17:21,MP,twitter,@jimcramer Heads up: MP guidance raised 💎 #markets,positive
+2025-08-19T04:22:21,MP,reddit,$MP @jimcramer IMO: MP costs under control ✅ #markets,positive
+2025-08-19T07:21:21,MP,reddit,$MP Update: MP rips higher ✅ #stocks https://blog.finance/hplrjbwjz,positive
+2025-08-19T08:23:21,AAPL,twitter,$AAPL AAPL expansion continues 😤 DYOR,positive
+2025-08-19T08:28:21,SMR,news,$SMR @jimcramer Heads up: SMR market indecisive 📰 #options http://example.com/yjtonkqgctmk,neutral
+2025-08-19T09:49:21,NVDA,reddit,$NVDA NVDA range-bound action 🔍 DYOR,neutral
+2025-08-19T12:18:21,AAPL,reddit,$AAPL @jimcramer Heads up: AAPL selloff incoming 🤦,negative
+2025-08-19T13:27:21,NVDA,reddit,$NVDA Breaking: NVDA files 10-Q 🤔 DYOR,neutral
+2025-08-19T14:15:21,SOFI,twitter,$SOFI @bespokeinvest FYI: SOFI sector rotation 🧾 https://news.site/zsntvbzqlri,neutral
+2025-08-19T14:28:21,SMR,news,$SMR @bespokeinvest Breaking: SMR solid earnings 🔥,positive
+2025-08-19T16:50:21,TSLA,reddit,$TSLA Heads up: TSLA range-bound action 🤔 https://blog.finance/dhnneyers,neutral
+2025-08-19T16:53:21,SMR,twitter,$SMR Update: SMR execution concerns 🩻 #fintwit,negative
+2025-08-19T18:33:21,MP,twitter,$MP IMO: MP market indecisive 🧾 #markets,neutral
+2025-08-19T20:14:21,AAPL,news,$AAPL @cnbc Heads up: AAPL unveils new product 🤔 https://blog.finance/twzdjoimgg DYOR,neutral
+2025-08-19T20:39:21,NVDA,reddit,$NVDA FYI: NVDA AI tailwinds 📈,positive
+2025-08-19T21:13:21,TSLA,twitter,$TSLA IMO: TSLA new ATH 📈 #AI,positive
+2025-08-19T21:14:21,TSLA,news,$TSLA @unusual_whales TSLA bullish momentum 🚀 http://example.com/lwstjk,positive
+2025-08-19T22:15:21,TSLA,reddit,$TSLA Update: TSLA missed revenue 😬 #options DYOR,negative
+2025-08-20T01:20:21,AAPL,reddit,$AAPL @cnbc FYI: AAPL sector rotation 📌 DYOR,neutral
+2025-08-20T02:21:21,AAPL,twitter,$AAPL FYI: AAPL range-bound action 📌,neutral
+2025-08-20T03:05:21,SMR,reddit,Heads up: SMR massive beat ✅ #options,positive
+2025-08-20T03:10:21,MP,news,$MP @jimcramer Breaking: MP supply issues 📉,negative
+2025-08-20T03:27:21,MP,news,$MP @jimcramer Update: MP demand slowing 🩻 #investing https://news.site/nsujvgo,negative
+2025-08-20T03:57:21,TSLA,twitter,$TSLA @cnbc IMO: TSLA new ATH 💎 #options,positive
+2025-08-20T05:25:21,MP,news,$MP @wsj MP beats expectations 😤 #AI http://example.com/xijusqspegof,positive
+2025-08-20T06:18:21,NVDA,reddit,$NVDA @barronsonline Heads up: NVDA partnership win 🔥 #markets,positive
+2025-08-20T06:26:21,SMR,news,@wsj FYI: SMR rumors circulating 🔍 #earnings DYOR,neutral
+2025-08-20T07:41:21,SOFI,news,$SOFI @bespokeinvest Heads up: SOFI guidance raised 😤 DYOR,positive
+2025-08-20T07:56:21,SMR,news,$SMR Update: SMR margin pressure 💥 #fintwit https://news.site/scuaoykywm DYOR,negative
+2025-08-20T08:04:21,NVDA,reddit,@bespokeinvest FYI: NVDA shares unchanged 📰 #investing DYOR,neutral
+2025-08-20T08:07:21,TSLA,reddit,@unusual_whales IMO: TSLA costs under control 🔥 https://blog.finance/waoczhzom,positive
+2025-08-20T08:32:21,SMR,reddit,$SMR @jimcramer IMO: SMR shares unchanged 🤔 DYOR,neutral
+2025-08-20T09:24:21,NVDA,reddit,$NVDA IMO: NVDA trading flat 🤔 DYOR,neutral
+2025-08-20T12:22:21,MP,twitter,$MP Breaking: MP massive beat 🔥 #fintwit,positive
+2025-08-20T13:17:21,NVDA,reddit,$NVDA @wsj NVDA margin pressure 🤦 #investing https://news.site/knxsidx,negative
+2025-08-20T13:23:21,SMR,twitter,$SMR @bespokeinvest Heads up: SMR crushing it 🔥 #options,positive
+2025-08-20T13:52:21,MP,twitter,$MP Breaking: MP record revenue 🔥 #options DYOR,positive
+2025-08-20T18:53:21,SMR,twitter,@bespokeinvest FYI: SMR beats expectations 📈 #markets DYOR,positive
+2025-08-20T19:32:21,TSLA,news,$TSLA Breaking: TSLA margin pressure 📉 #options,negative
+2025-08-20T19:36:21,SMR,reddit,$SMR @unusual_whales Breaking: SMR demand slowing 😬 DYOR,negative
+2025-08-20T19:44:21,NVDA,news,Breaking: NVDA rips higher 📈,positive
+2025-08-20T19:52:21,TSLA,twitter,IMO: TSLA record revenue 😤 #AI,positive
+2025-08-20T21:19:21,SOFI,reddit,$SOFI Breaking: SOFI conference next week 🧾 #options DYOR,neutral
+2025-08-20T23:03:21,TSLA,twitter,@jimcramer Update: TSLA record revenue 🚀 #AI DYOR,positive
+2025-08-20T23:57:21,NVDA,twitter,Breaking: NVDA guidance raised 🔥 #investing,positive
+2025-08-21T02:59:21,AAPL,twitter,$AAPL @bespokeinvest AAPL under investigation 🩻 https://blog.finance/kgfwb,negative
+2025-08-21T03:37:21,NVDA,twitter,$NVDA NVDA range-bound action 🧾 http://example.com/khoptero DYOR,neutral
+2025-08-21T04:08:21,NVDA,news,$NVDA @barronsonline IMO: NVDA expansion continues ✅ #AI https://blog.finance/gfwdmbkknkgi DYOR,positive
+2025-08-21T04:13:21,SOFI,reddit,$SOFI @wsj IMO: SOFI guidance cut ❌,negative
+2025-08-21T05:37:21,TSLA,news,$TSLA @wsj Heads up: TSLA range-bound action 🧾 http://example.com/ttxssk DYOR,neutral
+2025-08-21T05:47:21,NVDA,reddit,$NVDA @wsj Heads up: NVDA strong demand ✅ #AI,positive
+2025-08-21T06:33:21,MP,reddit,$MP @bespokeinvest FYI: MP sector rotation 🤔 https://blog.finance/hffogoyitms,neutral
+2025-08-21T08:08:21,SOFI,twitter,$SOFI IMO: SOFI partnership win 💎 #options,positive
+2025-08-21T10:07:21,SMR,twitter,Breaking: SMR execution concerns 🩻 #markets DYOR,negative
+2025-08-21T12:53:21,TSLA,twitter,$TSLA @jimcramer TSLA under investigation ❌,negative
+2025-08-21T13:02:21,AAPL,twitter,$AAPL @jimcramer Heads up: AAPL missed revenue ❌ #earnings https://blog.finance/uxccdenvgkj,negative
+2025-08-21T13:45:21,SMR,twitter,$SMR Breaking: SMR partnership win 🔥,positive
+2025-08-21T15:05:21,AAPL,reddit,$AAPL @elonmusk AAPL waiting for earnings 🔍 #AI,neutral
+2025-08-21T16:39:21,NVDA,news,FYI: NVDA AI tailwinds 🚀 #markets,positive
+2025-08-21T17:01:21,NVDA,twitter,$NVDA @bespokeinvest Update: NVDA costs under control 🚀 https://news.site/yptsk DYOR,positive
+2025-08-21T18:19:21,TSLA,news,$TSLA @bespokeinvest Heads up: TSLA crushing it 📈 #investing https://blog.finance/nzblvi,positive
+2025-08-21T18:57:21,MP,news,$MP FYI: MP demand slowing 📉 http://example.com/sqticaijhde,negative
+2025-08-21T18:57:21,SMR,reddit,$SMR @barronsonline IMO: SMR profit warning 😬 #options,negative
+2025-08-21T19:28:21,SMR,news,$SMR @elonmusk Update: SMR strong demand 🚀 #earnings DYOR,positive
+2025-08-21T20:43:21,SOFI,reddit,$SOFI FYI: SOFI profit warning 🩻 #fintwit DYOR,negative
+2025-08-21T21:39:21,NVDA,reddit,$NVDA @wsj IMO: NVDA guidance raised ✅ #markets https://news.site/smqldakv,positive
+2025-08-22T00:25:21,NVDA,reddit,$NVDA Update: NVDA macro headwinds 📉 #earnings,negative
+2025-08-22T00:49:21,SOFI,reddit,@jimcramer SOFI massive beat ✅ #options,positive
+2025-08-22T01:09:21,NVDA,reddit,@bespokeinvest FYI: NVDA macro headwinds 🩻,negative
+2025-08-22T01:47:21,SOFI,news,$SOFI Breaking: SOFI crushing it ✅,positive
+2025-08-22T02:11:21,SOFI,twitter,$SOFI SOFI no material update 📌 #AI https://blog.finance/pnywkazsvpxc DYOR,neutral
+2025-08-22T02:45:21,MP,reddit,$MP MP massive beat 😤,positive
+2025-08-22T02:57:21,SOFI,twitter,$SOFI Update: SOFI beats expectations 🚀 #investing,positive
+2025-08-22T03:30:21,SOFI,reddit,$SOFI Heads up: SOFI record revenue 😤,positive
+2025-08-22T03:35:21,AAPL,twitter,$AAPL @unusual_whales FYI: AAPL range-bound action 🤔 #earnings,neutral
+2025-08-22T03:37:21,MP,reddit,$MP Breaking: MP sector rotation 📰 #earnings,neutral
+2025-08-22T05:08:21,TSLA,news,$TSLA @bespokeinvest IMO: TSLA crushing it 📈 https://news.site/erktwll DYOR,positive
+2025-08-22T05:15:21,TSLA,twitter,$TSLA @elonmusk Update: TSLA supply issues 🤦 #earnings http://example.com/rmzikkcjl DYOR,negative
+2025-08-22T06:27:21,MP,news,$MP Heads up: MP shares unchanged 🧾 #earnings https://news.site/nkdjeqs,neutral
+2025-08-22T07:04:21,TSLA,news,$TSLA @unusual_whales IMO: TSLA selloff incoming 📉,negative
+2025-08-22T07:24:21,SOFI,twitter,IMO: SOFI under investigation 📉 #AI,negative
+2025-08-22T07:35:21,SOFI,twitter,$SOFI Heads up: SOFI rips higher 📈 #fintwit DYOR,positive
+2025-08-22T08:25:21,SOFI,news,$SOFI @elonmusk Heads up: SOFI partnership win ✅,positive
+2025-08-22T09:35:21,AAPL,news,$AAPL @jimcramer AAPL market indecisive 🧾 http://example.com/gwcwdvftrwpl,neutral
+2025-08-22T09:37:21,TSLA,twitter,$TSLA @bespokeinvest FYI: TSLA unveils new product 🧾 #investing https://blog.finance/ynxvdtkbh,neutral
+2025-08-22T11:12:21,MP,twitter,$MP MP under investigation 💥 #fintwit,negative
+2025-08-22T11:15:21,SOFI,reddit,$SOFI Breaking: SOFI new ATH 🚀 #investing https://news.site/yiauttlrjbnf,positive
+2025-08-22T13:59:21,TSLA,reddit,$TSLA @bespokeinvest FYI: TSLA guidance raised 💎 #AI,positive
+2025-08-22T15:40:21,AAPL,twitter,$AAPL FYI: AAPL conference next week 🔍 #stocks,neutral
+2025-08-22T15:57:21,MP,twitter,$MP Heads up: MP no material update 📌 #earnings https://news.site/bqstlcc DYOR,neutral
+2025-08-22T16:58:21,AAPL,twitter,$AAPL @elonmusk AAPL trading flat 🤔 #stocks,neutral
+2025-08-22T17:01:21,TSLA,reddit,$TSLA Breaking: TSLA conference next week 🤔 #earnings DYOR,neutral
+2025-08-22T17:14:21,TSLA,news,$TSLA Update: TSLA demand slowing 💥,negative
+2025-08-22T17:34:21,MP,news,$MP @cnbc Breaking: MP massive beat ✅ http://example.com/jlugqgpshya,positive
+2025-08-22T19:03:21,NVDA,twitter,$NVDA Heads up: NVDA analyst upgrade 📈,positive
+2025-08-22T19:11:21,TSLA,reddit,$TSLA Breaking: TSLA waiting for earnings 📰 #stocks,neutral
+2025-08-22T19:53:21,TSLA,reddit,$TSLA FYI: TSLA execution concerns ❌,negative
+2025-08-22T20:43:21,AAPL,news,$AAPL @elonmusk IMO: AAPL rips higher 🚀 #investing,positive
+2025-08-22T21:11:21,SOFI,news,$SOFI FYI: SOFI strong demand 🚀 #earnings http://example.com/nkqvrbs,positive
+2025-08-22T21:58:21,TSLA,twitter,@bespokeinvest Update: TSLA under investigation 🩻 #investing,negative
+2025-08-22T22:37:21,AAPL,twitter,$AAPL @wsj Update: AAPL partnership win 🔥 #markets DYOR,positive
+2025-08-22T22:40:21,TSLA,news,$TSLA @elonmusk Heads up: TSLA record revenue 💎 http://example.com/socljmojg DYOR,positive
+2025-08-23T01:13:21,SMR,news,$SMR Breaking: SMR lawsuit risk 🩻 http://example.com/jxeyausrfgxi,negative
+2025-08-23T03:04:21,SMR,reddit,$SMR @cnbc Update: SMR guidance cut ❌ DYOR,negative
+2025-08-23T03:40:21,SOFI,reddit,$SOFI Breaking: SOFI profit warning 😬 #earnings,negative
+2025-08-23T03:59:21,SMR,twitter,$SMR @unusual_whales FYI: SMR new ATH 💎,positive
+2025-08-23T04:39:21,TSLA,twitter,$TSLA @unusual_whales TSLA waiting for earnings 📰 DYOR,neutral
+2025-08-23T05:43:21,MP,reddit,$MP @bespokeinvest FYI: MP AI tailwinds 😤 #stocks DYOR,positive
+2025-08-23T05:55:21,NVDA,twitter,NVDA beats expectations 🔥,positive
+2025-08-23T06:48:21,SMR,twitter,$SMR @bespokeinvest Update: SMR rumors circulating 🤔 #investing DYOR,neutral
+2025-08-23T06:56:21,NVDA,reddit,$NVDA Heads up: NVDA dilution fears 📉 #fintwit http://example.com/upeemkn,negative
+2025-08-23T07:05:21,TSLA,reddit,$TSLA @cnbc TSLA shares unchanged 🔍 #investing DYOR,neutral
+2025-08-23T07:21:21,NVDA,twitter,$NVDA @bespokeinvest Breaking: NVDA guidance cut 🤦 http://example.com/ywooc DYOR,negative
+2025-08-23T07:52:21,TSLA,twitter,$TSLA FYI: TSLA misses badly 🩻 #AI,negative
+2025-08-23T09:17:21,MP,twitter,$MP Breaking: MP solid earnings 📈 https://blog.finance/vcwvdybylsmj,positive
+2025-08-23T09:47:21,SOFI,reddit,$SOFI @barronsonline FYI: SOFI costs under control 📈 #investing,positive
+2025-08-23T09:47:21,NVDA,twitter,$NVDA @cnbc Breaking: NVDA costs under control 🔥,positive
+2025-08-23T11:18:21,MP,news,Heads up: MP record revenue 🚀 #markets,positive
+2025-08-23T12:29:21,SMR,reddit,$SMR @cnbc Breaking: SMR waiting for earnings 📌 DYOR,neutral
+2025-08-23T12:54:21,SOFI,news,Breaking: SOFI bullish momentum 📈 #fintwit https://blog.finance/tyozk,positive
+2025-08-23T15:00:21,TSLA,twitter,$TSLA Heads up: TSLA CEO interview airs 🧾 https://blog.finance/yooezwmimc DYOR,neutral
+2025-08-23T15:20:21,TSLA,twitter,$TSLA FYI: TSLA missed revenue 📉 http://example.com/bdsdcnjbsr,negative
+2025-08-23T15:44:21,NVDA,reddit,IMO: NVDA sector rotation 🤔,neutral
+2025-08-23T17:07:21,TSLA,news,Heads up: TSLA missed revenue 🤦 #options,negative
+2025-08-23T18:05:21,MP,news,$MP @jimcramer Update: MP supply issues 💥 #markets DYOR,negative
+2025-08-23T18:09:21,SMR,reddit,$SMR IMO: SMR dilution fears ❌ #investing https://news.site/excsqxlggb,negative
+2025-08-23T18:29:21,AAPL,news,$AAPL FYI: AAPL beats expectations 🚀,positive
+2025-08-23T18:59:21,SMR,reddit,$SMR SMR conference next week 🔍 #AI http://example.com/agcixebyz,neutral
+2025-08-23T19:16:21,SMR,reddit,$SMR Update: SMR partnership win 🚀 http://example.com/fesssghgbo,positive
+2025-08-23T20:14:21,TSLA,twitter,$TSLA @jimcramer TSLA bullish momentum 🚀 http://example.com/ehcvikmr DYOR,positive
+2025-08-23T20:42:21,SMR,reddit,@barronsonline Breaking: SMR selloff incoming 😬 #AI https://news.site/dscrv,negative
+2025-08-23T22:58:21,SMR,twitter,$SMR IMO: SMR analyst upgrade 🚀,positive
+2025-08-23T23:50:21,SMR,twitter,$SMR SMR market indecisive 📌 #options,neutral
+2025-08-23T23:58:21,MP,news,@cnbc FYI: MP files 10-Q 📰 https://news.site/zlzqvg,neutral
+2025-08-24T00:43:21,AAPL,twitter,$AAPL @wsj Update: AAPL waiting for earnings 🧾 #markets https://blog.finance/cdopzccuuww,neutral
+2025-08-24T01:37:21,NVDA,reddit,$NVDA @cnbc Heads up: NVDA expansion continues ✅ #options,positive
+2025-08-24T03:00:21,AAPL,reddit,$AAPL @barronsonline Heads up: AAPL costs under control 💎 https://news.site/hmscwdzlv,positive
+2025-08-24T03:51:21,SOFI,news,$SOFI @unusual_whales IMO: SOFI no material update 📰,neutral
+2025-08-24T04:22:21,AAPL,news,$AAPL IMO: AAPL profit warning 💥 #markets,negative
+2025-08-24T04:51:21,TSLA,twitter,$TSLA @wsj TSLA CEO interview airs 📰 #earnings,neutral
+2025-08-24T05:08:21,MP,twitter,$MP @barronsonline FYI: MP no material update 📰,neutral
+2025-08-24T05:30:21,NVDA,twitter,$NVDA @cnbc Update: NVDA shares unchanged 📰 http://example.com/rgkautax,neutral
+2025-08-24T07:26:21,SMR,twitter,$SMR SMR crushing it 💎,positive
+2025-08-24T07:35:21,SOFI,reddit,$SOFI @bespokeinvest Update: SOFI new ATH 💎 #stocks https://blog.finance/ophrmihihr,positive
+2025-08-24T07:39:21,MP,reddit,$MP @elonmusk Update: MP CEO interview airs 🤔 #earnings,neutral
+2025-08-24T08:11:21,MP,reddit,@jimcramer Breaking: MP guidance raised 💎 #options,positive
+2025-08-24T09:26:21,MP,twitter,$MP @jimcramer Heads up: MP expansion continues 📈 #markets https://blog.finance/hmtsoxy,positive
+2025-08-24T10:35:21,MP,twitter,$MP IMO: MP under investigation 😬 https://news.site/mdbqpqmfd,negative
+2025-08-24T10:49:21,SMR,reddit,@cnbc Heads up: SMR waiting for earnings 📰 #options,neutral
+2025-08-24T11:45:21,TSLA,reddit,$TSLA @wsj TSLA execution concerns 🤦 http://example.com/lfuoe,negative
+2025-08-24T12:19:21,AAPL,twitter,$AAPL @barronsonline IMO: AAPL margin pressure 📉 #options https://news.site/xtnaa,negative
+2025-08-24T13:22:21,TSLA,news,$TSLA @bespokeinvest Update: TSLA costs under control 💎 #stocks,positive
+2025-08-24T14:34:21,NVDA,reddit,$NVDA @jimcramer FYI: NVDA lawsuit risk ❌ #AI DYOR,negative
+2025-08-24T14:42:21,SOFI,twitter,$SOFI @jimcramer Breaking: SOFI CEO interview airs 🤔 #fintwit https://blog.finance/jquqp DYOR,neutral
+2025-08-24T15:32:21,AAPL,news,$AAPL @barronsonline IMO: AAPL AI tailwinds 🚀 #earnings DYOR,positive
+2025-08-24T16:01:21,MP,news,$MP MP demand slowing 🩻 #options DYOR,negative
+2025-08-24T16:23:21,AAPL,news,$AAPL @elonmusk IMO: AAPL range-bound action 🧾 #fintwit,neutral
+2025-08-24T16:32:21,TSLA,reddit,$TSLA @barronsonline FYI: TSLA range-bound action 🔍 DYOR,neutral
+2025-08-24T16:49:21,AAPL,news,$AAPL FYI: AAPL guidance cut 🩻 DYOR,negative
+2025-08-24T17:27:21,MP,twitter,$MP Heads up: MP shares unchanged 🤔 #stocks,neutral
+2025-08-24T18:08:21,NVDA,reddit,$NVDA Breaking: NVDA record revenue 😤 DYOR,positive
+2025-08-24T18:12:21,TSLA,news,$TSLA Update: TSLA expansion continues 🔥 #investing https://news.site/cklvrmk,positive
+2025-08-24T19:25:21,TSLA,twitter,Breaking: TSLA files 10-Q 📰 #options,neutral
+2025-08-24T20:13:21,SOFI,twitter,$SOFI SOFI trading flat 🔍,neutral
+2025-08-24T20:57:21,SOFI,reddit,$SOFI @jimcramer Heads up: SOFI conference next week 🔍 #markets,neutral
+2025-08-25T00:37:21,SMR,news,Heads up: SMR trading flat 🤔 #investing DYOR,neutral
+2025-08-25T04:09:21,MP,news,$MP IMO: MP under investigation 📉 #markets,negative
+2025-08-25T04:22:21,AAPL,twitter,$AAPL @barronsonline FYI: AAPL demand slowing 💥 #AI https://news.site/bfqkglulw,negative
+2025-08-25T04:38:21,AAPL,reddit,$AAPL @bespokeinvest Update: AAPL range-bound action 📰 #stocks,neutral
+2025-08-25T04:43:21,MP,reddit,$MP IMO: MP dilution fears ❌ DYOR,negative
+2025-08-25T05:21:21,TSLA,reddit,$TSLA TSLA sector rotation 🧾 DYOR,neutral
+2025-08-25T07:09:21,MP,twitter,$MP Heads up: MP unveils new product 📌 #earnings DYOR,neutral
+2025-08-25T08:44:21,TSLA,reddit,$TSLA FYI: TSLA files 10-Q 🔍 #markets,neutral
+2025-08-25T10:48:21,TSLA,news,$TSLA @jimcramer TSLA bullish momentum 🚀 #markets,positive
+2025-08-25T11:26:21,SMR,news,$SMR Update: SMR massive beat ✅,positive
+2025-08-25T12:06:21,SMR,twitter,$SMR Breaking: SMR partnership win 📈 #options,positive
+2025-08-25T14:09:21,SOFI,reddit,$SOFI @wsj Heads up: SOFI margin pressure 🤦 #fintwit https://blog.finance/voitoffsr,negative
+2025-08-25T14:29:21,TSLA,news,$TSLA Heads up: TSLA expansion continues 🔥,positive
+2025-08-25T15:45:21,SMR,news,$SMR Update: SMR demand slowing 🤦 #markets DYOR,negative
+2025-08-25T17:53:21,AAPL,twitter,$AAPL @wsj FYI: AAPL downgraded to sell 💥 DYOR,negative
+2025-08-25T19:04:21,AAPL,news,$AAPL Heads up: AAPL record revenue 💎 https://blog.finance/toguuhry,positive
+2025-08-25T19:23:21,MP,reddit,$MP @bespokeinvest IMO: MP missed revenue 🩻,negative
+2025-08-25T19:28:21,MP,reddit,$MP MP record revenue 📈 http://example.com/eenjlo DYOR,positive
+2025-08-25T19:38:21,SMR,reddit,$SMR Breaking: SMR beats expectations 💎 #earnings,positive
+2025-08-25T20:56:21,MP,news,$MP Heads up: MP no material update 📌 #investing http://example.com/nueokjw,neutral
+2025-08-25T21:42:21,NVDA,reddit,IMO: NVDA guidance raised 🔥,positive
+2025-08-25T22:02:21,AAPL,twitter,$AAPL Update: AAPL expansion continues 💎 http://example.com/jucgsanunn,positive
+2025-08-25T22:33:21,NVDA,news,$NVDA FYI: NVDA under investigation 😬,negative
+2025-08-25T23:29:21,MP,twitter,@elonmusk FYI: MP CEO interview airs 🤔 #investing,neutral
+2025-08-25T23:38:21,SOFI,news,$SOFI @barronsonline SOFI AI tailwinds 🚀 #stocks http://example.com/oofgkqlar,positive
+2025-08-26T00:05:21,MP,news,$MP MP margin pressure 🩻,negative
+2025-08-26T00:16:21,NVDA,news,$NVDA IMO: NVDA guidance raised 📈 #markets,positive
