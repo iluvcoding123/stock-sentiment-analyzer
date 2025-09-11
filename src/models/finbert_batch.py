@@ -10,7 +10,7 @@ class FinBertScorer:
         self.tokenizer = AutoTokenizer.from_pretrained(model_id)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_id)
         self.pipe = TextClassificationPipeline(
-            model=self.model, tokenizer=self.tokenizer, framework="pt", device=device, return_all_scores=True
+            model=self.model, tokenizer=self.tokenizer, framework="pt", device=device, top_k=None
         )
 
     def score_texts(self, texts: List[str]) -> pd.DataFrame:
