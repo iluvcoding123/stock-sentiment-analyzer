@@ -75,6 +75,12 @@ def append_parquet(df: pd.DataFrame, ts: dt.datetime):
     table = pa.Table.from_pandas(df)
     pq.write_table(table, filename)
 
+# Write/update a single snapshot file for Streamlit or quick peeks
+def write_snapshot(df: pd.DataFrame):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    table = pa.Table.from_pandas(df)
+    pq.write_table(table, os.path.join(DATA_DIR, "latest.parquet"))
+
 def main():
     scorer = FinBertScorer()
     print("Starting loop. Ctrl+C to stop.")
@@ -90,7 +96,8 @@ def main():
 
         # write
         append_parquet(out, ts)
-        print(f"Wrote {len(out)} rows at {ts.isoformat()}")
+        write_snapshot(out)
+        print(f"Wrote {len(out)} rows at {ts.isoformat()} (snapshot updated)")
         time.sleep(60)
 
 if __name__ == "__main__":
