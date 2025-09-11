@@ -23,3 +23,10 @@ End-to-end ML pipeline for real-time stock sentiment analysis from tweets, news,
 	•	Bar chart of sentiment counts.
 	•	Table of recent posts with filters.
 	•	Toggle between VADER and FinBERT.
+
+## Quickstart
+    1) Create .env with `NEWSAPI_KEY=...`
+    2) Start the stream loop:
+       python -m src.scripts.stream_loop
+    3) Launch the dashboard:
+       streamlit run streamlit_app.py
