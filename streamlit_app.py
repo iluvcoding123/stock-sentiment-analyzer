@@ -32,9 +32,8 @@ df = df.dropna(subset=["fetched_at"]).sort_values("fetched_at")
 
 # Controls
 tickers = sorted(df["ticker"].dropna().unique().tolist() or ["AAPL"])
-ticker = st.selectbox("Ticker", tickers, index=0)
-
-view = df[df["ticker"] == ticker].copy()
+selected_tickers = st.multiselect("Select ticker(s):", tickers, default=[tickers[0]])
+view = df[df["ticker"].isin(selected_tickers)].copy()
 
 # Layout
 col_left, col_right = st.columns([2,1], gap="large")
