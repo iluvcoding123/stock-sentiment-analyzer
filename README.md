@@ -2,7 +2,7 @@
 
 End-to-end pipeline for near‑real‑time stock sentiment from news (and later Twitter/forums). The project now supports multiple tickers, rolling sentiment tracking over time, and a live Streamlit dashboard. It ingests live headlines via NewsAPI, scores them with FinBERT, and writes partitioned Parquet files plus a rolling `latest.parquet` snapshot. A Streamlit app visualizes sentiment over time and label counts.
 
-## Project status (Sep 2025)
+## Project status (Nov 2025)
 - **Data ingest (NewsAPI)**: live headlines for configurable tickers (AAPL default) — completed.
 - **Sentiment model**: FinBERT (`yiyanghkust/finbert-tone`) batch scoring — completed.
 - **Storage**: partitioned Parquet under `data/processed/sentiment/date=YYYY-MM-DD/part-*.parquet` and `data/processed/sentiment/latest.parquet` — completed.
