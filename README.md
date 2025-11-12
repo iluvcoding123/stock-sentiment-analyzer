@@ -1,13 +1,15 @@
 # stock-sentiment-analyzer
 
-End-to-end pipeline for near‑real‑time stock sentiment from news (and later Twitter/forums). Current MVP ingests live headlines via NewsAPI, scores them with FinBERT, and writes partitioned Parquet files plus a rolling `latest.parquet` snapshot. A Streamlit app visualizes sentiment over time and label counts.
+End-to-end pipeline for near‑real‑time stock sentiment from news (and later Twitter/forums). The project now supports multiple tickers, rolling sentiment tracking over time, and a live Streamlit dashboard. It ingests live headlines via NewsAPI, scores them with FinBERT, and writes partitioned Parquet files plus a rolling `latest.parquet` snapshot. A Streamlit app visualizes sentiment over time and label counts.
 
 ## Project status (Sep 2025)
-- **Data ingest (NewsAPI)**: live headlines for configurable tickers (AAPL default).
-- **Sentiment model**: FinBERT (`yiyanghkust/finbert-tone`) batch scoring.
-- **Storage**: partitioned Parquet under `data/processed/sentiment/date=YYYY-MM-DD/part-*.parquet` and `data/processed/sentiment/latest.parquet`.
-- **Dashboard**: Streamlit MVP reads `latest.parquet` and shows time series + label counts + latest items.
-- **Environment**: `.env` with `NEWSAPI_KEY`, ignored by git.
+- **Data ingest (NewsAPI)**: live headlines for configurable tickers (AAPL default) — completed.
+- **Sentiment model**: FinBERT (`yiyanghkust/finbert-tone`) batch scoring — completed.
+- **Storage**: partitioned Parquet under `data/processed/sentiment/date=YYYY-MM-DD/part-*.parquet` and `data/processed/sentiment/latest.parquet` — completed.
+- **Dashboard**: Streamlit app reads `latest.parquet` and shows time series + label counts + latest items — completed.
+- **Environment**: `.env` with `NEWSAPI_KEY`, ignored by git — completed.
+
+The project runs continuously via the streaming loop and visualizes historical sentiment across multiple tickers.
 
 ## Quickstart
 
@@ -49,6 +51,17 @@ streamlit run streamlit_app.py
     - Bar chart of label counts.
     - Table of latest headlines (with URLs when available).
 
+## Dashboard Preview
+
+**Sentiment Trends**
+![Sentiment Trends](images/sentiment_trends.png)
+
+**Label Distribution**
+![Label Distribution](images/label_distribution.png)
+
+**Latest Headlines**
+![Latest Headlines](images/headlines.png)
+
 ## Data layout
 
 - Partitioned data:
@@ -85,4 +98,3 @@ streamlit run streamlit_app.py
 - NewsAPI usage is subject to rate limits and license terms.
 - For a more varied time axis in the chart, prefer `created_at` over `fetched_at` (publication vs. fetch time).
 - Twitter/forums ingestion will be added as separate modules and merged into the same schema.
-

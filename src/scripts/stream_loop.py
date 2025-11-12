@@ -19,7 +19,7 @@ except Exception:
 
 DATA_DIR = "data/processed/sentiment"
 TICKERS = ["AAPL", "TSLA", "AMZN", "NVDA"]  # Add more tickers here
-INTERVAL = 1800  # 30 minutes between cycles (adjust as needed)
+INTERVAL = 3600  # 1 hour between cycles (adjust as needed)
 
 
 def ensure_partition_dir(ts: dt.datetime) -> str:

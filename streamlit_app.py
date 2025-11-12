@@ -1,5 +1,6 @@
 # streamlit_app.py
 import os
+import glob
 import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
@@ -13,12 +14,14 @@ st.title("📈 Live Stock Sentiment (News + FinBERT)")
 
 SNAP = "data/processed/sentiment/latest.parquet"
 
-if not os.path.exists(SNAP):
-    st.warning("No snapshot found yet. Start the stream loop first.")
+files = glob.glob("data/processed/sentiment/date=*/part-*.parquet")
+if files:
+    df = pd.concat([pd.read_parquet(f) for f in files], ignore_index=True)
+elif os.path.exists(SNAP):
+    df = pd.read_parquet(SNAP)
+else:
+    st.warning("No sentiment data found. Start the stream loop first.")
     st.stop()
-
-# Read snapshot
-df = pd.read_parquet(SNAP)
 
 # Guard rails
 required = {"ticker","text","sent_label","sent_score","fetched_at","source"}
